@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/Tgm07/LY/releases/latest/download/lyrics-stage.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Tgm07/LY/main/lyrics-stage.apk",
   "sha256": "653e6c7afaff33b101344854464d0c18bdb2388d5e351cbefe55c770082f2381",
   "notes": "Initial Lyrics Stage release with direct in-app updates.",
   "required": false
