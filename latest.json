@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apkUrl": "https://raw.githubusercontent.com/Tgm07/LY/main/lyrics-stage.apk",
-  "sha256": "8ae8047d87df0237eb59c00e34a83efff31afca8ab8a137f0e482dd1e7b69de2",
-  "notes": "Adds required Google sign-in, account-synced likes and listening history, recently played songs in empty search, and consistent artwork-based themes.",
+  "sha256": "fcc9cd096054e0b04e2d61d220271b63b7fea760150b37ce31877e6ea7f29b4d",
+  "notes": "Adds per-account cloud recommendation profiles, isolated history and queues, and artwork-themed lyric cards that can be shared from the lyrics screen.",
   "required": false
 }
